@@ -1,9 +1,8 @@
 import React from 'react';
-function App() {
+export function App() {
   return (
     <div>
       <h1>Bienvenido a mi WebApp</h1>
     </div>
   );
 }
-export default App;
